@@ -1,29 +1,23 @@
-# Yoga
 
-This template should help get you started developing with Vue 3 in Vite.
+# Yoyo-yoga
 
-## Recommended IDE Setup
+A web app to view videos from a yoga community. I used VueJS to build this project.
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
 
-## Customize configuration
+## Demo
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+- [Demo](https://yoyo-yoga.netlify.app/)
 
-## Project Setup
 
-```sh
-npm install
-```
+## Acknowledgements
 
-### Compile and Hot-Reload for Development
+ - Tailwind
+ - Pinia
+ - Vueuse
+ - Plyr
+ 
 
-```sh
-npm run dev
-```
+## Authors
 
-### Compile and Minify for Production
+- [Francesco Alessi](https://github.com/alessflame)
 
-```sh
-npm run build
-```
