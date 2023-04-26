@@ -1,7 +1,6 @@
 <script setup>
 import SearchBar from "./SearchBar.vue";
 import Video from "./Video.vue";
-import SkeletonVideo from "./SkeletonVideo.vue";
 import { useVideosStore } from "../stores/video.js";
 
 const store = useVideosStore();
